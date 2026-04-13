@@ -38,7 +38,7 @@ Assets/Scenes/MainScene.unity
 
 ## Screenshot
 
-![Project Structure](Screenshots/project_structure.png)
+![Project Structure](unity1.png)
 
 
 
@@ -47,7 +47,6 @@ Assets/Scenes/MainScene.unity
 2. Open `MainScene` from the Scenes folder  
 3. Click Play to run the game  
 
----
 
-## 🏷️ Submission Tag
+## Submission Tag
 #cl-game-dev-unity-project
